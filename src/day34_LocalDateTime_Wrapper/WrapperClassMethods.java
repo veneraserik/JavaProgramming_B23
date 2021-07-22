@@ -62,7 +62,33 @@ public class WrapperClassMethods {
         System.out.println("sum = " + sum);
 
         System.out.println("-------------------------------------------------");
-      //  String
+
+        String s2 = "AAABBBCCC!@#$%#@!$%^&12345678";
+
+        String letters ="",
+                digits = "",
+                specialChars = "";
+
+        for (char each : s2.toCharArray()) {
+
+            if(Character.isDigit(each)){
+                digits += each;
+            }else if(Character.isLetter(each)){
+                letters += each;
+            }else{
+                specialChars += each;
+            }
+
+        }
+
+
+        System.out.println("letters = " + letters);
+        System.out.println("digits = " + digits);
+        System.out.println("specialChars = " + specialChars);
+
+
+
+
 
 
 
