@@ -77,7 +77,7 @@ Warepper class:
 
 
 
-Tomorrow: ArrayList
+Tomorrow: ArrayList (part of the collection)
 
 
 Unit Assessment 2 due by July/24 11:59pm
