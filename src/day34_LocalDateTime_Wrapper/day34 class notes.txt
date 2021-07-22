@@ -27,7 +27,7 @@ methods:
 	isAfter()
 	isEqual()
 	isLeapYear()
-	plusDays, Months, Weeks, Years
+	plusDays, Months, Weeks, Years, hours, sounds, minutes...
 
 
 DateTimeFormatter:
