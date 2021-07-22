@@ -58,7 +58,41 @@ Task:
 
 
 
+Data Structures:
+	Array: supports primitives & non-primitives
+	Collection: does not support primitives
+	Map: does not support primitives
+
+
+Warepper class:
+		1. parse methods: converting string to primitives
+
+		2. valueOf methods:converting string to wrapper class
+
+
+
+	"123" + 1 ==> 1231
+	123  + 1 ==> 124
+
+
+
+
 Tomorrow: ArrayList
 
 
 Unit Assessment 2 due by July/24 11:59pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
