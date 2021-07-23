@@ -47,6 +47,24 @@ ArrayList methods:
 		equals(list): returns boolean
 
 
+	Bulk Operations: argument MUST be collectionType
+		addAll(collectionType): adds collection of elements to the list
+		removeAll(collectionType): removes all the matching elemnts from the arraylist
+		retianAll(collectionType): removes all the Non-matching elemnts from the arraylist (keep)
+		containsAll(collectionType)
+
+
+
+Arrays Utility:
+	Arrays.asList(array of values) ==> returns the array as Collection Type
+
+
+
+
+
+
+
+
 
 
 come back at: 2:10 pm
