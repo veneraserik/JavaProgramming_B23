@@ -59,6 +59,19 @@ public class BulkOperations {
         System.out.println("r = " + r);
 
 
+        System.out.println("------------------------------------");
+
+        ArrayList<String> l = new ArrayList<>();
+        l.add("Enes");
+        l.add("Akbor"); //{Enes, Akbor}
+        l.add(1, "Alex"); //{Enes, Alex, Akbor}
+        l.add(0, "Alp");  //{"Alp", Enes, Alex, Akbor}
+
+        System.out.println(l);
+
+
+
+
 
 
 
