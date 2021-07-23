@@ -49,7 +49,14 @@ public class BulkOperations {
         System.out.println(employees);
 
 
+        System.out.println("----------------------------------------------------------");
+        ArrayList<String> groceryList = new ArrayList<>();
+        groceryList.addAll(Arrays.asList( "Soda", "Milk", "Wine", "Beer", "Eggs", "Bread", "Water", "Apple", "Cherry" , "Paper Towels" ));
 
+        //check if Soda, Wine, Beer all of the are contained in groceryList
+        boolean r =groceryList.containsAll(  Arrays.asList("Soda", "Wine", "Beer", "Coffee")  );
+
+        System.out.println("r = " + r);
 
 
 

@@ -51,14 +51,12 @@ ArrayList methods:
 		addAll(collectionType): adds collection of elements to the list
 		removeAll(collectionType): removes all the matching elemnts from the arraylist
 		retianAll(collectionType): removes all the Non-matching elemnts from the arraylist (keep)
-		containsAll(collectionType)
+		containsAll(collectionType): 
 
 
 
 Arrays Utility:
 	Arrays.asList(array of values) ==> returns the array as Collection Type
-
-
 
 
 
