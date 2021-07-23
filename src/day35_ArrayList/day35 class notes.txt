@@ -51,7 +51,7 @@ ArrayList methods:
 		addAll(collectionType): adds collection of elements to the list
 		removeAll(collectionType): removes all the matching elemnts from the arraylist
 		retianAll(collectionType): removes all the Non-matching elemnts from the arraylist (keep)
-		containsAll(collectionType): 
+		containsAll(collectionType): checks if all elemnts are contained in the list
 
 
 
